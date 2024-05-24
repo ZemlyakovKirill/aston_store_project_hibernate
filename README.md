@@ -1,4 +1,4 @@
-# Store project hibernat
+# Store project hibernate
 
 ### Entities
 
