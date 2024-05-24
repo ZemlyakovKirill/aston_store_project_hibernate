@@ -30,8 +30,7 @@
 
 From IntelliJIDEA Ultimate:
 
-![alt text](./main/resources/img.img)
-### Additional Links
+![alt text](https://github.com/ZemlyakovKirill/aston_store_project_hibernate/blob/main/src/main/resources/static/img.png)
 
 Creator:
 
